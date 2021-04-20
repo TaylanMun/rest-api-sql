@@ -4,15 +4,15 @@ Node Js, Express Js, REST APIS, SQL ORM Sequelize project.This project includes 
 
 ## Install
     $ git clone https://github.com/TaylanMun/rest-api-sql.git
-    $ cd rest-ai-sql
+    $ cd rest-api-sql
     $ npm install
 
 ## Running the project
-    $ npm run seed this command to create database and saves data in tables
+    $ npm run seed -> this command to create database and saves data in tables
     $ npm start
 
 ## Testing the project
-    $ Import REST API Project.postman_collection.json file to postman.
+    $ Import RESTAPI.postman_collection.json file to postman.
 
 ## Description
 - CRUD operations with sequelize
